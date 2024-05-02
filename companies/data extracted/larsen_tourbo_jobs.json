@@ -1,0 +1,576 @@
+[
+    {
+        "title": "Senior Manager - CRM",
+        "job_code": "LNT/SM-C/994232",
+        "business_unit": "Realty",
+        "location": "Mumbai",
+        "posted_date": "29 Mar 2024",
+        "experience": "10-16 years",
+        "required_skills": [
+            "CRM",
+            "VENDOR MANAGEMENT",
+            "BUSINESS STRATEGY",
+            "MIS",
+            "STRATEGIC PLANNING"
+        ]
+    },
+    {
+        "title": "DGM - Contracts",
+        "job_code": "LNT/D-C/986609",
+        "business_unit": "Transportation Infrastructure Ic",
+        "location": "Landmark",
+        "posted_date": "29 Mar 2024",
+        "experience": "10-25 years",
+        "required_skills": [
+            "CONTRACTS ADMINISTRATION",
+            "PLANNING & CONTRACTS"
+        ]
+    },
+    {
+        "title": "Sr. Manager QA/QC",
+        "job_code": "LNT/-M/991936",
+        "business_unit": "Transportation Infrastructure Ic",
+        "location": "Mumbai Project Office",
+        "posted_date": "29 Mar 2024",
+        "experience": "15-25 years",
+        "required_skills": [
+            "QUALITY CONTROL",
+            "QUALITY ASSURANCE"
+        ]
+    },
+    {
+        "title": "Quality Assurance & Control",
+        "job_code": "LNT/QA-C/993997",
+        "business_unit": "L&T Energy - Hydrocarbon",
+        "location": "Knowledge City Vadodara",
+        "posted_date": "29 Mar 2024",
+        "experience": "9-13 years",
+        "required_skills": [
+            "QUALITY ASSURANCE",
+            "QUALITY MANAGEMENT"
+        ]
+    },
+    {
+        "title": "SCM- Buyer",
+        "job_code": "LNT/-B/993983",
+        "business_unit": "L&T Energy - Hydrocarbon",
+        "location": "Knowledge City Vadodara",
+        "posted_date": "29 Mar 2024",
+        "experience": "3-8 years",
+        "required_skills": [
+            "SUPPLY CHAIN MANAGEMENT"
+        ]
+    },
+    {
+        "title": "DOCUMENT CONTROLLER",
+        "job_code": "LNT/DC/983230",
+        "business_unit": "Transportation Infrastructure Ic",
+        "location": "Haryana Sites",
+        "posted_date": "29 Mar 2024",
+        "experience": "9-10 years",
+        "required_skills": [
+            "DOCUMENT MANAGEMENT",
+            "DOCUMENT CONTROLLER",
+            "DOCUMENT MANAGEMENT SYSTEM"
+        ]
+    },
+    {
+        "title": "MANAGER - CIVIL",
+        "job_code": "LNT/M-C/991171",
+        "business_unit": "L&T - Geostructure",
+        "location": "Assam Sites",
+        "posted_date": "29 Mar 2024",
+        "experience": "10-17 years",
+        "required_skills": [
+            "EXECUTION"
+        ]
+    },
+    {
+        "title": "Marine Surveyor",
+        "job_code": "LNT/MS/990755",
+        "business_unit": "L&T - Geostructure",
+        "location": "Ahmedabad",
+        "posted_date": "29 Mar 2024",
+        "experience": "8-15 years",
+        "required_skills": [
+            "SURVEYOR"
+        ]
+    },
+    {
+        "title": "SUPPLY CHAIN MANAGEMENT (M&M)",
+        "job_code": "LNT/SCM/993070",
+        "business_unit": "Minerals & Metals",
+        "location": "Kolkata",
+        "posted_date": "28 Mar 2024",
+        "experience": "3-15 years",
+        "required_skills": [
+            "SUPPLY AND DISTRIBUTION PROCESS KNOWLEDGE",
+            "PROCUREMENT & SOURCING",
+            "PROCUREMENT"
+        ]
+    },
+    {
+        "title": "Highway Engineer - EDRC C",
+        "job_code": "LNT/HE-EC/988263",
+        "business_unit": "Transportation Infrastructure Ic",
+        "location": "Chennai",
+        "posted_date": "28 Mar 2024",
+        "experience": "6-8 years",
+        "required_skills": [
+            "MX ROAD",
+            "AUTOCAD",
+            "REVIT"
+        ]
+    },
+    {
+        "title": "Document Controller - EDRC C",
+        "job_code": "LNT/DC-EC/987694",
+        "business_unit": "Transportation Infrastructure Ic",
+        "location": "Chennai",
+        "posted_date": "28 Mar 2024",
+        "experience": "6-8 years",
+        "required_skills": [
+            "DOCUMENT CONTROLLER"
+        ]
+    },
+    {
+        "title": "Draughtsman - Highway / Railway Geometry...",
+        "job_code": "LNT/D-H-RG-EC/987688",
+        "business_unit": "Transportation Infrastructure Ic",
+        "location": "Chennai",
+        "posted_date": "28 Mar 2024",
+        "experience": "3-10 years",
+        "required_skills": [
+            "AUTOCAD",
+            "REVIT",
+            "MX ROAD"
+        ]
+    },
+    {
+        "title": "Draughtsman Bridge Str - EDRC C",
+        "job_code": "LNT/DBS-EC/987649",
+        "business_unit": "Transportation Infrastructure Ic",
+        "location": "Chennai",
+        "posted_date": "28 Mar 2024",
+        "experience": "3-10 years",
+        "required_skills": [
+            "AUTOCAD",
+            "REVIT"
+        ]
+    },
+    {
+        "title": "BIM - SB",
+        "job_code": "LNT/B-S/987617",
+        "business_unit": "Transportation Infrastructure Ic",
+        "location": "Chennai",
+        "posted_date": "28 Mar 2024",
+        "experience": "4-8 years",
+        "required_skills": [
+            "BIM"
+        ]
+    },
+    {
+        "title": "Document Controller - SB",
+        "job_code": "LNT/DC-S/987595",
+        "business_unit": "Transportation Infrastructure Ic",
+        "location": "Chennai",
+        "posted_date": "28 Mar 2024",
+        "experience": "3-6 years",
+        "required_skills": [
+            "DOCUMENT CONTROLLER"
+        ]
+    },
+    {
+        "title": "Geotechnical Engineering - SB",
+        "job_code": "LNT/GE-S/987549",
+        "business_unit": "Transportation Infrastructure Ic",
+        "location": "Chennai",
+        "posted_date": "28 Mar 2024",
+        "experience": "5-10 years",
+        "required_skills": [
+            "PLAXIS",
+            "CAPWAP"
+        ]
+    },
+    {
+        "title": "Structural Engineering - SB",
+        "job_code": "LNT/SE-S/987517",
+        "business_unit": "Transportation Infrastructure Ic",
+        "location": "Chennai",
+        "posted_date": "28 Mar 2024",
+        "experience": "3-8 years",
+        "required_skills": [
+            "MIDAS",
+            "AUTOCAD"
+        ]
+    },
+    {
+        "title": "Hwy/ Str- QS(1 each)- EDRC C",
+        "job_code": "LNT/--EC/988286",
+        "business_unit": "Transportation Infrastructure Ic",
+        "location": "Chennai",
+        "posted_date": "28 Mar 2024",
+        "experience": "6-8 years",
+        "required_skills": [
+            "QUANTITY SURVEYOR"
+        ]
+    },
+    {
+        "title": "Design Manager - MPSB",
+        "job_code": "LNT/DM-M/988321",
+        "business_unit": "Transportation Infrastructure Ic",
+        "location": "Assam Sites",
+        "posted_date": "28 Mar 2024",
+        "experience": "10-20 years",
+        "required_skills": [
+            "AUTOCAD",
+            "MIDAS"
+        ]
+    },
+    {
+        "title": "Design Engineer",
+        "job_code": "LNT/DE/991875",
+        "business_unit": "Power Transmission & Distribution - Ic",
+        "location": "Chennai",
+        "posted_date": "28 Mar 2024",
+        "experience": "3-7 years",
+        "required_skills": [
+            "OPERATIONAL ACCEPTANCE"
+        ]
+    },
+    {
+        "title": "Asst. Engineering Manager (Profile)",
+        "job_code": "LNT/-EM/991926",
+        "business_unit": "Power Transmission & Distribution - Ic",
+        "location": "Chennai",
+        "posted_date": "28 Mar 2024",
+        "experience": "2-5 years",
+        "required_skills": [
+            "OPERATIONAL ACCEPTANCE"
+        ]
+    },
+    {
+        "title": "Support Service Engineer - ISD",
+        "job_code": "LNT/SSE-I/975366",
+        "business_unit": "Heavy Civil Infrastructure",
+        "location": "Chennai Head Qrs.",
+        "posted_date": "28 Mar 2024",
+        "experience": "2-4 years",
+        "required_skills": [
+            "HARDWARE",
+            "NETWORK",
+            "SYSTEM CONFIGURATION"
+        ]
+    },
+    {
+        "title": "Structural Supervisor",
+        "job_code": "LNT/SS/993043",
+        "business_unit": "L&T Energy - Hydrocarbon",
+        "location": "Powai",
+        "posted_date": "28 Mar 2024",
+        "experience": "10-19 years",
+        "required_skills": [
+            "CIVIL ENGINEERING"
+        ]
+    },
+    {
+        "title": "Environmental Engineer",
+        "job_code": "LNT/EE/988386",
+        "business_unit": "Heavy Civil Infrastructure",
+        "location": "Mumbai",
+        "posted_date": "28 Mar 2024",
+        "experience": "6-8 years",
+        "required_skills": [
+            "ENVIRONMENTAL COMPLIANCE",
+            "ENVIRONMENTAL AWARENESS"
+        ]
+    },
+    {
+        "title": "Engineer- Systems",
+        "job_code": "LNT/-S/975947",
+        "business_unit": "Heavy Civil Infrastructure",
+        "location": "Mumbai",
+        "posted_date": "28 Mar 2024",
+        "experience": "4-7 years",
+        "required_skills": [
+            "SYSTEM ADMINISTRATION",
+            "NETWORK ENGINEER",
+            "WINDOWS AND AD ADMIN",
+            "IP CCTV",
+            "BIOMETRICS",
+            "OS ADMIN",
+            "LAN SECURITY",
+            "WLAN",
+            "INTERNET INTRANET TECHNOLOGIES"
+        ]
+    },
+    {
+        "title": "Safety Manager",
+        "job_code": "LNT/SM/979168",
+        "business_unit": "Heavy Civil Infrastructure",
+        "location": "Rishikesh",
+        "posted_date": "28 Mar 2024",
+        "experience": "6-18 years",
+        "required_skills": [
+            "CONSTRUCTION SAFETY",
+            "EHS",
+            "INSPECTION",
+            "OCCUPATIONAL HEALTH",
+            "SAFETY (TUNNEL)",
+            "RISK ASSESSMENT",
+            "ISO 14001",
+            "ACCIDENT INVESTIGATION"
+        ]
+    },
+    {
+        "title": "Quantity Surveyor",
+        "job_code": "LNT/QS/988586",
+        "business_unit": "Heavy Civil Infrastructure",
+        "location": "Mumbai",
+        "posted_date": "28 Mar 2024",
+        "experience": "6-8 years",
+        "required_skills": [
+            "QUANTITY SURVEYOR",
+            "AUTOCAD",
+            "BILLING"
+        ]
+    },
+    {
+        "title": "QA/QC Manager-NATM",
+        "job_code": "LNT/-/988690",
+        "business_unit": "Heavy Civil Infrastructure",
+        "location": "Mumbai",
+        "posted_date": "28 Mar 2024",
+        "experience": "12-15 years",
+        "required_skills": [
+            "QUALITY ASSURANCE",
+            "QA/QC TUNNEL (CIVIL)",
+            "QC INSPECTION"
+        ]
+    },
+    {
+        "title": "QA/QC Engineer-NATM",
+        "job_code": "LNT/-/988729",
+        "business_unit": "Heavy Civil Infrastructure",
+        "location": "Mumbai",
+        "posted_date": "28 Mar 2024",
+        "experience": "3-5 years",
+        "required_skills": [
+            "QUALITY ASSURANCE",
+            "QA/QC TUNNEL (CIVIL)"
+        ]
+    },
+    {
+        "title": "Site Head - Sales",
+        "job_code": "LNT/SH-S/992869",
+        "business_unit": "Realty",
+        "location": "Mumbai",
+        "posted_date": "27 Mar 2024",
+        "experience": "12-20 years",
+        "required_skills": [
+            "SALES MANAGEMENT",
+            "SALES",
+            "BUSINESS DEVELOPMENT",
+            "CRM",
+            "BUSINESS STRATEGY"
+        ]
+    },
+    {
+        "title": "Planning Manager UG",
+        "job_code": "LNT/PMU/991164",
+        "business_unit": "Heavy Civil Infrastructure",
+        "location": "Kolkata",
+        "posted_date": "27 Mar 2024",
+        "experience": "15-20 years",
+        "required_skills": [
+            "PLANNING",
+            "PRIMAVERA"
+        ]
+    },
+    {
+        "title": "Sr Engineer/Assistant Manager PMG-Elex",
+        "job_code": "LNT/S-M/898168",
+        "business_unit": "Defence Ic",
+        "location": "Hazira Mfg Complex",
+        "posted_date": "27 Mar 2024",
+        "experience": "3-6 years",
+        "required_skills": [
+            "PROJECT MANAGEMENT",
+            "PROJECT EXECUTION"
+        ]
+    },
+    {
+        "title": "Project Manager",
+        "job_code": "LNT/PM/984773",
+        "business_unit": "Power Transmission & Distribution - Ic",
+        "location": "Ahmedabad Regional Sites",
+        "posted_date": "26 Mar 2024",
+        "experience": "15-30 years",
+        "required_skills": [
+            "PROJECT MANAGEMENT"
+        ]
+    },
+    {
+        "title": "Project Manager",
+        "job_code": "LNT/PM/984583",
+        "business_unit": "Power Transmission & Distribution - Ic",
+        "location": "Delhi",
+        "posted_date": "26 Mar 2024",
+        "experience": "20-30 years",
+        "required_skills": [
+            "PROJECT MANAGEMENT",
+            "PROJECT MANAGER"
+        ]
+    },
+    {
+        "title": "Construction Manager",
+        "job_code": "LNT/CM/984784",
+        "business_unit": "Power Transmission & Distribution - Ic",
+        "location": "Ahmedabad Regional Sites",
+        "posted_date": "26 Mar 2024",
+        "experience": "10-20 years",
+        "required_skills": [
+            "CONSTRUCTION",
+            "CONSTRUCTION MANAGEMENT"
+        ]
+    },
+    {
+        "title": "Construction Manager",
+        "job_code": "LNT/CM/984592",
+        "business_unit": "Power Transmission & Distribution - Ic",
+        "location": "Delhi",
+        "posted_date": "26 Mar 2024",
+        "experience": "10-20 years",
+        "required_skills": [
+            "CONSTRUCTION MANAGEMENT"
+        ]
+    },
+    {
+        "title": "Senior Electrical Engineer",
+        "job_code": "LNT/SEE/989988",
+        "business_unit": "L&T Energy - Hydrocarbon",
+        "location": "Amn Tower, Powai",
+        "posted_date": "26 Mar 2024",
+        "experience": "6-15 years",
+        "required_skills": [
+            "CONTROL PANEL DESIGN"
+        ]
+    },
+    {
+        "title": "Procurement Coordinator",
+        "job_code": "LNT/PC/990549",
+        "business_unit": "L&T Energy - Hydrocarbon",
+        "location": "Amn Tower, Powai",
+        "posted_date": "26 Mar 2024",
+        "experience": "1-2 years",
+        "required_skills": [
+            "SPL"
+        ]
+    },
+    {
+        "title": "Manager Direct Sales",
+        "job_code": "LNT/MDS/991222",
+        "business_unit": "Realty",
+        "location": "Mumbai",
+        "posted_date": "25 Mar 2024",
+        "experience": "8-18 years",
+        "required_skills": [
+            "SALES",
+            "RELATIONSHIP MANAGEMENT",
+            "DIRECT SALES",
+            "SALES MANAGEMENT"
+        ]
+    },
+    {
+        "title": "Senior Engineer Civil O&G",
+        "job_code": "LNT/SEC/987885",
+        "business_unit": "Power Transmission & Distribution - Ic",
+        "location": "Chennai Head Qrs.",
+        "posted_date": "23 Mar 2024",
+        "experience": "3-7 years",
+        "required_skills": [
+            "CIVIL ENGINEERING",
+            "STRUCTURAL ENGINEERING",
+            "FOUNDATION DESIGN",
+            "STAAD",
+            "ETABS",
+            "INFRASTRUCTURE",
+            "ANALYSIS",
+            "LOCAL CODES/ INTERNATIONAL CODES"
+        ]
+    },
+    {
+        "title": "Senior Engineer Civil",
+        "job_code": "LNT/SEC/986831",
+        "business_unit": "Power Transmission & Distribution - Ic",
+        "location": "Chennai Head Qrs.",
+        "posted_date": "23 Mar 2024",
+        "experience": "3-9 years",
+        "required_skills": [
+            "CIVIL ENGINEERING",
+            "STRUCTURAL ENGINEERING",
+            "STAAD",
+            "STRUCTURAL ANALYSIS"
+        ]
+    },
+    {
+        "title": "Lead Engineer - Civil SS",
+        "job_code": "LNT/LE-CS/986824",
+        "business_unit": "Power Transmission & Distribution - Ic",
+        "location": "Chennai Head Qrs.",
+        "posted_date": "23 Mar 2024",
+        "experience": "8-12 years",
+        "required_skills": [
+            "CIVIL ENGINEERING",
+            "STRUCTURAL ENGINEERING",
+            "STRUCTURAL ANALYSIS",
+            "PROJECT ENGINEERING",
+            "CIVIL DESIGN",
+            "SUBSTATION DESIGN",
+            "STAAD",
+            "ETABS"
+        ]
+    },
+    {
+        "title": "DRAUGHTSMAN - CIVIL",
+        "job_code": "LNT/D-C/987884",
+        "business_unit": "Power Transmission & Distribution - Ic",
+        "location": "Chennai",
+        "posted_date": "23 Mar 2024",
+        "experience": "3-8 years",
+        "required_skills": [
+            "AUTOCAD",
+            "REVIT",
+            "CIVIL ENGINEERING",
+            "3D BIM",
+            "CONSTRUCTION DRAWINGS"
+        ]
+    },
+    {
+        "title": "Civil & Structural Design Engineer - Ren...",
+        "job_code": "LNT/C-SDE-R-SS-BA/987881",
+        "business_unit": "Power Transmission & Distribution - Ic",
+        "location": "Chennai",
+        "posted_date": "23 Mar 2024",
+        "experience": "3-7 years",
+        "required_skills": [
+            "SUBSTATION DESIGN",
+            "STRUCTURAL ENGINEERING",
+            "CIVIL ENGINEERING",
+            "FOUNDATION DESIGN",
+            "STAAD"
+        ]
+    },
+    {
+        "title": "Costing Engineer",
+        "job_code": "LNT/CE/989274",
+        "business_unit": "Power Transmission & Distribution - Ic",
+        "location": "Chennai Head Qrs.",
+        "posted_date": "23 Mar 2024",
+        "experience": "2-5 years",
+        "required_skills": [
+            "COSTING",
+            "CIVIL ENGINEERING"
+        ]
+    }
+]
